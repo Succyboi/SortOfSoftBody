@@ -11,7 +11,7 @@ In unity we have the rigidbody component. It provides an object with physics sim
 Like the built in rigidbody SortOfSoftBody is a component. Simply add it to an object and tinker with the settings a little.
 
 ## Demo
-If you'd like to see a demo of SortOfSoftbody simply visit [this link]() to play the web build (not available on mobile).
+If you'd like to see a demo of SortOfSoftbody simply visit [this link](http://stupidplusplus.com/gamedev.html) to play the web build (not available on mobile).
 
 Otherwise you can always just take a look at the example scene from the unity package.
 
